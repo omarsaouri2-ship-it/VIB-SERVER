@@ -4037,5 +4037,12 @@ http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/1876717
 http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/1876707
 #EXTINF:-1 tvg-ID="" tvg-name="|AR|  FORJA  MASRAH HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/66/21/3e662138-2c69-f4d8-7523-82c456322f6f/App_Icon-marketing.lsr/1200x630bb.png" group-title="|AR| ✪ MOROCCO",|AR|  FORJA  MASRAH HD
 http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/1876708
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="News",Abante TV (1080p)
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 tvg-id="JOAYDTV.jp@SD" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",ABC (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 tvg-id="WMARDT1.us@SD" tvg-logo="https://static.wikia.nocookie.net/dinosaurs/images/9/96/Thedinosaursnetflixposter.jpg/revision/latest?cb=20260206190610" group-title="New",The Dinosaurs
 https://v3144.media.cm/v/01/00189/1f33o9hfbzkf_o/o.mkv?t=rKxHUq1SoS-JX4ZtXiTbOKeo-HGzW83witr0ZWOzDPc&s=1773102288&e=21600&f=946105&sp=1000&i=0.0 
+
