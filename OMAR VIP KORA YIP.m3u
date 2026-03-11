@@ -1,0 +1,188 @@
+#EXTM3U
+# قنوات FR TNT HD الرئيسية
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5037.png" group-title="|FR| TNT HD",|FR| TF1 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/269
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| France 2 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5052.png" group-title="|FR| TNT HD",|FR| France 2 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/274
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| France 3 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5053.png" group-title="|FR| TNT HD",|FR| France 3 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/275
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| France 5 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5096.png" group-title="|FR| TNT HD",|FR| France 5 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/277
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5038.png" group-title="|FR| TNT HD",|FR| M6 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/270
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE HD" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ARTE.png" group-title="|FR| TNT HD",|FR| ARTE HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/7411
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5093.png" group-title="|FR| TNT HD",|FR| C8 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/272
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5055.png" group-title="|FR| TNT HD",|FR| W9 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/271
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5103.png" group-title="|FR| TNT HD",|FR| TMC HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/281
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX HD" tvg-logo="http://138.199.27.237:8080/FRANCE/TFX.png" group-title="|FR| TNT HD",|FR| TFX HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/4546
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ 12 HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5056.png" group-title="|FR| TNT HD",|FR| NRJ 12 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/321
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="|FR| LCI HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/5100.png" group-title="|FR| TNT HD",|FR| LCI HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/292
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="|FR| BFM TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5091.png" group-title="|FR| INFOS",|FR| BFM TV ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/289
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="|FR| C NEWS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CNEWSHD.png" group-title="|FR| INFOS",|FR| C NEWS ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/10008
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="|FR| FRANCE INFO ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/FRANCEINFOHD.png" group-title="|FR| INFOS",|FR| FRANCE INFO ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/10067
+# قنوات FR CINEMA الرئيسية (Canal+, OCS, Cine+)
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| Canal+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="|FR| CINEMA",|FR| Canal+ ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/247
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| Canal+ Cinema ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5017.png" group-title="|FR| CINEMA",|FR| Canal+ Cinema ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/249
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| Canal+ Series ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5018.png" group-title="|FR| CINEMA",|FR| Canal+ Series ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/252
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| Cine+ OCS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5065.png" group-title="|FR| CINEMA",|FR| Cine+ OCS ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/254
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| Cine + Emotion ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5066.png" group-title="|FR| CINEMA",|FR| Cine + Emotion ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/255
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| Cine+ Frisson ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5064.png" group-title="|FR| CINEMA",|FR| Cine+ Frisson ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/257
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| ACTION ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/ACTIONHD.png" group-title="|FR| CINEMA",|FR| ACTION ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/266
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="|FR| Paramount Channel ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/PARAMOUNTCHANNELHD.png" group-title="|FR| CINEMA",|FR| Paramount Channel ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/4527
+# قنوات FR JEUNESSE الرئيسية
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="|FR| Gulli ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/222.png" group-title="|FR| JEUNESSE",|FR| Gulli ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/296
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="|FR| Canal J ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5081.png" group-title="|FR| JEUNESSE",|FR| Canal J ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/297
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="|FR| TiJi ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png" group-title="|FR| JEUNESSE",|FR| TiJi ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/299
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="|FR| Teletoon+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5071.png" group-title="|FR| JEUNESSE",|FR| Teletoon+ ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/300
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="|FR| Piwi+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5072.png" group-title="|FR| JEUNESSE",|FR| Piwi+ ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/298
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="|FR| Disney Channel ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5073.png" group-title="|FR| JEUNESSE",|FR| Disney Channel ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/302
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="|FR| Disney Junior ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5074.png" group-title="|FR| JEUNESSE",|FR| Disney Junior ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/305
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="|FR| NICKELODEON ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png" group-title="|FR| JEUNESSE",|FR| NICKELODEON ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/4185
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="|FR| Nick Jr ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png" group-title="|FR| JEUNESSE",|FR| Nick Jr ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/308
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="|FR| Boomerang ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="|FR| JEUNESSE",|FR| Boomerang ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/307
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="|FR| Cartoon Network ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png" group-title="|FR| JEUNESSE",|FR| Cartoon Network ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/306
+# قنوات FR DECOUVERTE الرئيسية
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| Planete+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5078.png" group-title="|FR| DECOUVERTE",|FR| Planete+ ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/330
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| Nat Geo  ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/NGCHD.png" group-title="|FR| DECOUVERTE",|FR| Nat Geo  ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/336
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="|FR| Nat Geo Wild ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|FR| DECOUVERTE",|FR| Nat Geo Wild ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/337
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| Ushuaia TV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5077.png" group-title="|FR| DECOUVERTE",|FR| Ushuaia TV ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/335
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| Histoire ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/HISTOIRE.png" group-title="|FR| DECOUVERTE",|FR| Histoire ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/342
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC Decouverte" tvg-logo="http://138.199.27.237:8080/0tv_logo/5058.png" group-title="|FR| DECOUVERTE",|FR| RMC Decouverte
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/329
+# قنوات FR SPORT الرئيسية (BeIN, RMC, Eurosport)
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| beIN Sports 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/BEINSPORTS.png" group-title="|FR| BEIN SPORT",|FR| beIN Sports 1 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/228
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| beIN Sports 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="|FR| BEIN SPORT",|FR| beIN Sports 2 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/227
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| beIN Sports 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5082.png" group-title="|FR| BEIN SPORT",|FR| beIN Sports 3 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/226
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT LIVE 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="|FR| RMC SPORT",|FR| RMC SPORT LIVE 1 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/234
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT LIVE 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/RMCSPORHD.png" group-title="|FR| RMC SPORT",|FR| RMC SPORT LIVE 2 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/235
+#EXTINF:-1 tvg-ID="canalplusfoot.fr" tvg-name="|FR| CANAL+ FOOT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="|FR| CANAL+ SPORT",|FR| CANAL+ FOOT ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/256631
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="|FR| Canal+ Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="|FR| CANAL+ SPORT",|FR| Canal+ Sport ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/250
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| Eurosport 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| EUROSPORT",|FR| Eurosport 1 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/238
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| Eurosport 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT2HD.png" group-title="|FR| EUROSPORT",|FR| Eurosport 2 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/239
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| L Equipe 21 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/LEQUIPE21HD.png" group-title="|FR| SPORT",|FR| L Equipe 21 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/237
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="|FR| Infosport+ ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/INFOSPORT+HD.png" group-title="|FR| SPORT",|FR| Infosport+ ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/240
+# قنوات AR BEIN SPORT الرئيسية
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN Sports 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 1 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/1
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 2 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/2
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 3 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/4
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 4 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/5
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 5 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/6
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="|AR| BEIN SPORT HD",beIN Sports 6 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/7
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="beIN Sports News HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="|AR| BEIN SPORT HD",beIN Sports News HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/28939
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="beIN Sports MAX 1 HD" tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="|AR| beIN SPORTS MAX",beIN Sports MAX 1 HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/106199
+# قنوات AR SPORTS ARABIC الرئيسية
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| Abu Dhabi Sports 1 FHD" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="|AR| SPORTS ARABIC",|SPO| Abu Dhabi Sports 1 FHD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/48
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| Abu Dhabi Sports 2 FHD" tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="|AR| SPORTS ARABIC",|SPO| Abu Dhabi Sports 2 FHD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/29128
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| AD SPORT 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5011.png" group-title="|AR| SPORTS ARABIC",|SPO| AD SPORT 3 ᵁᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/50159
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| DUBAI SPORTS 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="|AR| SPORTS ARABIC",|SPO| DUBAI SPORTS 1 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/170303
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| KSA SPORTS 1 ᴴᴰ PLUS" tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="|AR| SPORTS ARABIC",|SPO| KSA SPORTS 1 ᴴᴰ PLUS
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/12210
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| KSA SPORTS 2 ᴴᴰ" tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="|AR| SPORTS ARABIC",|SPO| KSA SPORTS 2 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/14534
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| ONTIME SPORTS" tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="|AR| SPORTS ARABIC",|SPO| ONTIME SPORTS
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/113375
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| ONTIME SPORTS2" tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="|AR| SPORTS ARABIC",|SPO| ONTIME SPORTS2
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/113376
+#EXTINF:-1 tvg-ID="" tvg-name="|SPO| YAS SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ARABE/YASSPORT.png" group-title="|AR| SPORTS ARABIC",|SPO| YAS SPORT ᵁᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/50165
+#EXTINF:-1 tvg-ID="alkassone.qa" tvg-name="|AR| AL KASS 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS1.png" group-title="|AR| AL KASS HD",|AR| AL KASS 1 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/22837
+#EXTINF:-1 tvg-ID="alkasstwo.qa" tvg-name="|AR| AL KASS 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS2.png" group-title="|AR| AL KASS HD",|AR| AL KASS 2 ᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/22838
+# قنوات AR MOROCCO الرئيسية
+#EXTINF:-1 tvg-ID="2mmaroc.ma" tvg-name="|MA| 2M NATIONAL HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/121.png" group-title="|AR| MOROCCO",|MA| 2M NATIONAL HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/31509
+#EXTINF:-1 tvg-ID="alaoula.ma" tvg-name="|MA| Al Aoula Inter HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/729.png" group-title="|AR| MOROCCO",|MA| Al Aoula Inter HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/8001
+#EXTINF:-1 tvg-ID="medi1tv.ma" tvg-name="|MA| Medi1 tv HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/166.png" group-title="|AR| MOROCCO",|MA| Medi1 tv HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/8006
+#EXTINF:-1 tvg-ID="almaghribia.ma" tvg-name="|MA| Al Maghribia TNT" tvg-logo="http://138.199.27.237:8080/0tv_logo/56.png" group-title="|AR| MOROCCO",|MA| Al Maghribia TNT
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/7999
+#EXTINF:-1 tvg-ID="arryadia.ma" tvg-name="|MA| ARRYADIA HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/733.png" group-title="|AR| MOROCCO",|MA| ARRYADIA HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/7997
+#EXTINF:-1 tvg-ID="" tvg-name="|MA|  MBC 5 Maghreb" tvg-logo="http://138.199.27.237:8080/MBCGROUP/MBC5-1.png" group-title="|AR| MOROCCO",|MA|  MBC 5 Maghreb
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/54872
+#EXTINF:-1 tvg-ID="assadissatv.ma" tvg-name="|MA| Assadissa HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/147.png" group-title="|AR| MOROCCO",|MA| Assadissa HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/7993
+#EXTINF:-1 tvg-ID="" tvg-name="|MA| Tamazight HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/487.png" group-title="|AR| MOROCCO",|MA| Tamazight HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/7992
+#EXTINF:-1 tvg-ID="arrabia.ma" tvg-name="|MA| Arrabiaa HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/761.png" group-title="|AR| MOROCCO",|MA| Arrabiaa HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/7994
+#EXTINF:-1 tvg-ID="" tvg-name="|MA| AFLAM HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/352.png" group-title="|AR| MOROCCO",|MA| AFLAM HD
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/28935
+# قنوات AR BEIN ENTERTAINMENT الرئيسية
+#EXTINF:-1 tvg-ID="beinmovies1.qa" tvg-name="|beIN| beIN Movies 1 Premiere" tvg-logo="http://138.199.27.237:8080/0tv_logo/5113.png" group-title="|AR| BEIN ENTERTAINMENT",|beIN| beIN Movies 1 Premiere
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/18
+#EXTINF:-1 tvg-ID="beinmovies2.qa" tvg-name="|beIN| beIN Movies 2 Action" tvg-logo="http://138.199.27.237:8080/0tv_logo/5114.png" group-title="|AR| BEIN ENTERTAINMENT",|beIN| beIN Movies 2 Action
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/21
+#EXTINF:-1 tvg-ID="beinmovies3.qa" tvg-name="|beIN| beIN Movies 3 Drama" tvg-logo="http://138.199.27.237:8080/0tv_logo/5115.png" group-title="|AR| BEIN ENTERTAINMENT",|beIN| beIN Movies 3 Drama
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/19
+#EXTINF:-1 tvg-ID="beinmovies4.qa" tvg-name="|beIN| beIN Movies 4 Family" tvg-logo="http://138.199.27.237:8080/0tv_logo/5116.png" group-title="|AR| BEIN ENTERTAINMENT",|beIN| beIN Movies 4 Family
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/20
+#EXTINF:-1 tvg-ID="beindrama.qa" tvg-name="|beIN| beIN Drama ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5119.png" group-title="|AR| BEIN ENTERTAINMENT",|beIN| beIN Drama ᵁᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/14553
+#EXTINF:-1 tvg-ID="beinseries1.qa" tvg-name="beIN Series 1" tvg-logo="http://138.199.27.237:8080/0tv_logo/5117.png" group-title="|AR| BEIN ENTERTAINMENT",beIN Series 1
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/1250
+#EXTINF:-1 tvg-ID="fatafeat.qa" tvg-name="|beIN| Fatafeat ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/ch26.png" group-title="|AR| BEIN ENTERTAINMENT",|beIN| Fatafeat ᵁᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/14551
+#EXTINF:-1 tvg-ID="natgeo.qa" tvg-name="|beIN| National Geographic ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" group-title="|AR| BEIN ENTERTAINMENT",|beIN| National Geographic ᵁᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/4553
+#EXTINF:-1 tvg-ID="hgtv.qa" tvg-name="|beIN| HGTV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/3501.png" group-title="|AR| BEIN ENTERTAINMENT",|beIN| HGTV ᵁᴴᴰ
+http://114816248306.elg-26.com:80/dv6ika8ii7564578687789ZER/flaj1pjm0z/14549
